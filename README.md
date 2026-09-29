@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou **Thalita**, estudante de **Ciência da Computação**, atualmente no 3º semestre.
+Oi! Eu sou a **Thalita**, estudante de **Ciência da Computação**, atualmente no 3º semestre.
 
 Estou construindo minha base na programação e, no momento, meu foco principal está em **Java, lógica de programação e fundamentos de desenvolvimento de software**.
 
