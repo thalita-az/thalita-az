@@ -62,21 +62,9 @@ Este perfil reúne parte dos projetos que venho desenvolvendo durante essa jorna
 
 <div align="center">
 
-| Java | Lógica de programação | Desenvolvimento de software |
-|:---:|:---:|:---:|
-| Em aprendizado | Em aprendizado | Em aprendizado |
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thalita-az&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=e60073&icon_color=e60073&text_color=ffffff&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thalita-az&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e60073&text_color=ffffff" />
+**Java**  
+Lógica de programação  
+Fundamentos de desenvolvimento de software
 
 </div>
 
@@ -92,42 +80,8 @@ Este perfil reúne parte dos projetos que venho desenvolvendo durante essa jorna
 
 ---
 
-## Contribuições
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thalita-az&bg_color=0d0d0d&color=ffffff&line=e60073&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thalita-az&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
-
-## Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thalita-az/thalita-az/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=thalita-az&color=e60073&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e60073,50:171717,100:0d0d0d&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e60073,50:171717,100:0d0d0d&height=120&section=footer"/>
 
 </div>
