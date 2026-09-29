@@ -8,7 +8,7 @@
 
 ---
 
-## 🌸 Sobre mim
+##  Sobre mim
 
 Oi! Eu sou a **Thalita**, estudante de **Ciência da Computação**, atualmente no 3º semestre.
 
@@ -16,11 +16,11 @@ Estou construindo minha base na programação e, neste momento, meu foco princip
 
 Ao longo da faculdade, também venho tendo contato com desenvolvimento web, desenvolvimento mobile, APIs, React e computação em nuvem através de projetos e atividades acadêmicas.
 
-Este perfil reúne um pouco desses projetos e do meu processo de aprendizado. ✨
+Este perfil reúne um pouco desses projetos e do meu processo de aprendizado. 
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div align="center">
 
@@ -34,14 +34,14 @@ Este perfil reúne um pouco desses projetos e do meu processo de aprendizado. �
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
 <table>
 <tr>
 
 <td width="50%" align="center">
 
-<h3>📱 Quizavel</h3>
+<h3> Quizavel</h3>
 
 <p>
 Aplicativo de quiz desenvolvido com
@@ -57,7 +57,7 @@ como projeto acadêmico.
 
 <td width="50%" align="center">
 
-<h3>⚛️ Estudos com React</h3>
+<h3> Estudos com React</h3>
 
 <p>
 Atividades e projetos desenvolvidos durante
@@ -93,7 +93,7 @@ meus estudos de <strong>React e Vite</strong>.
 
 ---
 
-## 🌱 Atualmente estudando
+##  Atualmente estudando
 
 <div align="center">
 
